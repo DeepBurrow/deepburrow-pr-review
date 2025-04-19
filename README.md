@@ -8,19 +8,19 @@ This repository is used to test the DeepBurrow Smart Contract Code & PR Reviewer
 
 The following sample PRs have been created to demonstrate the PR review capabilities:
 
-1. **Precondition Check** (#1)
+1. **[Precondition Check #1](https://github.com/DeepBurrow/deepburrow-pr-review/pull/1)**
 
    - Tests the system's ability to identify missing precondition validations
 
-2. **VulnerableContract Added** (#2)
+2. **[VulnerableContract Added #2](https://github.com/DeepBurrow/deepburrow-pr-review/pull/2)**
 
    - Contains a contract with intentional vulnerabilities for testing
 
-3. **Overflow Underflow Check** (#3)
+3. **[Overflow Underflow Check #3](https://github.com/DeepBurrow/deepburrow-pr-review/pull/3)**
 
    - Tests detection of potential arithmetic overflow/underflow issues
 
-4. **Delegatecall Contract Added** (#4)
+4. **[Delegatecall Contract Added #4](https://github.com/DeepBurrow/deepburrow-pr-review/pull/4)**
    - Tests identification of unsafe delegatecall usage and related vulnerabilities
 
 ## Purpose
