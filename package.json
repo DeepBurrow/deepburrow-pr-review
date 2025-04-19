@@ -1,0 +1,12 @@
+{
+  "name": "deepburrow-pr-review",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/DeepBurrow/deepburrow-pr-review.git",
+  "author": "BytesBuilder <65547777+MasterAtWork@users.noreply.github.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "hardhat": "^2.23.0"
+  }
+}
